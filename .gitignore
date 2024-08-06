@@ -135,4 +135,5 @@ tensorboard.sh
 *.json
 
 # temp
-detection/
+# detection/
+pose_estimation/

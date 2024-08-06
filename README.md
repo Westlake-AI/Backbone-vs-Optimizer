@@ -22,7 +22,8 @@ class="center">
 This repo is mainly based on [OpenMixup](https://github.com/Westlake-AI/openmixup) to implement image classification tasks while using [MMDetection](https://github.com/open-mmlab/mmdetection/) for transfer learning tasks. **The manuscript and repo are updating, please watch us for the latest release!**
 
 - [x] **Image Classification** on CIFAR-100 and ImageNet-1K in [OpenMixup](https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/cifar100/). [[configs](classification/)]
-- [ ] **Object Detection and Segmentation** on COCO. [[code](detection/)]
+- [x] **Object Detection and Segmentation** on COCO. [[code](detection/)]
+- [ ] **2D Pose Estimation** on COCO. [[code](pose_estimation/)]
 - [ ] **Trained Models** on CIFAR-100, ImageNet-1K, and COCO.
 
 ## Installation
